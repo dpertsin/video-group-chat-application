@@ -1,1 +1,1 @@
-# video-group-chat-application
+# Video Group Chat Application
